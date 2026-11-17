@@ -1,0 +1,9 @@
+{
+    "geode": "4.0.0",
+    "version": "v1.0.0",
+    "id": "example.minihack",
+    "name": "MiniHack",
+    "developer": "MiniHack Developer",
+    "description": "A simple modular Geometry Dash mod project.",
+    "dependencies": {}
+}
