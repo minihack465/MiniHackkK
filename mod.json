@@ -1,9 +1,13 @@
+
 {
-    "geode": "4.0.0",
-    "version": "v1.0.0",
+    "geode": "6.0.0-alpha.2",
+    "gd": {
+        "win": "2.2091"
+    },
     "id": "example.minihack",
+    "version": "v1.0.0",
     "name": "MiniHack",
     "developer": "MiniHack Developer",
-    "description": "A simple modular Geometry Dash mod project.",
+    "description": "A simple Geometry Dash mod.",
     "dependencies": {}
 }
