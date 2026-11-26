@@ -1,4 +1,5 @@
 
+
 {
     "geode": "6.0.0",
     "gd": {
@@ -9,5 +10,12 @@
     "name": "MiniHack",
     "developer": "MiniHack Developer",
     "description": "A simple Geometry Dash mod.",
-    "dependencies": {}
+    "dependencies": {},
+    "settings": {
+        "open-menu": {
+            "type": "keybind",
+            "name": "Open MiniHack Menu",
+            "default": "N"
+        }
+    }
 }
